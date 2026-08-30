@@ -99,10 +99,9 @@ The project demonstrates practical skills in **data analysis, Excel dashboard de
 - Business Intelligence
 
 ---
-
 ## 📷 Dashboard Preview
 
-![Swiggy Sales Dashboard](./Swiggy_Sales_Dashboard.png)
+![Swiggy Sales Dashboard](./swiggy-dashboard.png)
 
 ---
 
