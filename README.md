@@ -101,7 +101,7 @@ The project demonstrates practical skills in **data analysis, Excel dashboard de
 ---
 ## 📷 Dashboard Preview
 
-![Swiggy Sales Dashboard](./swiggy-dashboard.png)
+![Swiggy Sales Dashboard](./Swiggy-Dashboard.png)
 
 ---
 
